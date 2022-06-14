@@ -1,0 +1,12 @@
+# Python
+* print()
+* input()
+* int()
+* len()
+* float()
+* str()
+* list()
+* tupple()
+* range()
+* dict()
+* bool
